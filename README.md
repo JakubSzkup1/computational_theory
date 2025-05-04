@@ -205,6 +205,10 @@ Manually install matplotlib nltk
 ```bash
 pip install matplotlib nltk
 ```
+Install requirements
+```bash
+pip install requirements.txt
+```
 ## Cloning the Repository
 To clone the repository from GitHub, run the following command in the terminal
 ```bash
