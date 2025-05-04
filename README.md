@@ -14,9 +14,8 @@
 - [Installation](#installation)
 - [Dependencies](#dependencies)
 - [Project Structure](#project-structure)
-- [Research and References](#research-and-references)
-- [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
+- [References by Task](#research-and-references)
+
 
 ## Project Overview
 This project covers some core topics from computational theory, working through eight different tasks, each focusing on different areas such as binary operations, hash functions, padding, prime generation, Turing machines, and sorting algorithms. The goal of this project was to build a solid understanding of how these concepts are applied in computing by researching each topic and demonstrating how they work with testing to prove that the logic implemented works. It is a hands-on breakdown of some core ideas behind modern computing. 
