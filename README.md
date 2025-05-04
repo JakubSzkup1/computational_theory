@@ -12,9 +12,9 @@
 - [Task 8: Computational Complexity](#task-8-computational-complexity)
 - [Usage Instructions](#usage-instructions)
 - [Installation](#installation)
+- [Cloning the Repository](#cloning-the-repository)
 - [Dependencies](#dependencies)
-- [Project Structure](#project-structure)
-- [References by Task](#research-and-references)
+- [References by Task](#references-by-task)
 
 
 ## Project Overview
