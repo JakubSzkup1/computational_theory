@@ -189,7 +189,7 @@ Bubble Sort is well-suited for this demonstration because of the following:
 - **`bubble_sort_with_count(arr)`**: This function sorts a list using Bubble Sort and it returns the number of comparisons made. The function also includes an early exit once the list is sorted for better results.
 
 ### Usage Instructions
-- Use **`itertools.permutations()** to generate al the permutations of the list `[1, 2, 3, 4, 5]`.
+- Use **`itertools.permutations()`** to generate al the permutations of the list `[1, 2, 3, 4, 5]`.
 - And for each permutation, call the `bubble_sort_with_count()' function.
 - The permutation and the comparison count are then printed out.
 ---
