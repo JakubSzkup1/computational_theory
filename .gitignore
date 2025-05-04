@@ -170,5 +170,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-sample.txt
-words_alpha.txt
+
