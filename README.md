@@ -33,7 +33,6 @@ Binary representations are fundamental in computing and cryptography. In this ta
 
 ### Usage Instructions
 The functions can be tested with any 32-bit integer. All of them use Python's built-in bitwise operators
-
 ---
 
 ## Task 2: Hash Functions
@@ -105,7 +104,7 @@ This task involves generating the first 100 prime numbers using two different ap
 ## Task 5: Roots
 
 ### Overview
-This task calculates the first 32 bits of the fractional part of the square roots of the first 100 primes. This task provides insights into how mathematical constants can be represented in binary form. This sort of process is used in cryptgraphic applications where these constants are used in algorithm initialisation.
+This task calculates the first 32 bits of the fractional part of the square roots of the first 100 primes. This task provides insights into how mathematical constants can be represented in binary form. This sort of process is used in cryptographic applications where these constants are used in algorithm initialisation.
 
 ### Steps Performed
 - Generate the first 100 primes using the iterative method from task 4.
@@ -173,7 +172,7 @@ This task demonstrates a basic Turing Machine, which is a foundational model of 
 ## Task 8: Computational Complexity
 
 ### Overview
-This task demonstrates the computational complexity using the Bubble Sort Algorithm. The goal of this task is to understand how the number of comparisons changes depending on the input order, which alligns with the definition of time complexity as described in theoretical science.
+This task demonstrates the computational complexity using the Bubble Sort Algorithm. The goal of this task is to understand how the number of comparisons changes depending on the input order, which aligns with the definition of time complexity as described in theoretical science.
 
 Bubble Sort is well-suited for this demonstration because of the following:
 - It is easy to understand and implement.
